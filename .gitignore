@@ -10,3 +10,13 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+client/dist/
+client/build/
